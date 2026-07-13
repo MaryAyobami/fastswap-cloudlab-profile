@@ -1,5 +1,6 @@
 """
-Fastswap
+This profile instantiates 2 nodes for Fastswap(Eurosys 2020) reproduction 
+https://github.com/clusterfarmem/fastswap
 """
 
 import geni.portal as portal
